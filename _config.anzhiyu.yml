@@ -21,19 +21,17 @@ nav:
   travelling: false
   clock: false
   menu:
-    - title: 相关站点
+    - title: 快捷入口
       item:
-        - name: OpenList
-          link: http://File.xubuyuan.top
-        - name: Agent
-          link: http://agent.xubuyuan.top
+        - name: chat_bot
+          link: http://bot.xubuyuan.top
         - name: Obsidian
           link: http://note.xubuyuan.top
 
     - title: 我的项目
       item:
         - name: DMS-Lyrics
-          link: https://github.com/xubuyuan18/dms-plugin-Lyrics
+          link: https://github.com/xubuyuan17/dms-plugin-Lyrics
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -64,7 +62,7 @@ copy:
 # formal:
 #   name: link || icon
 social:
-  Github: https://github.com/xubuyuan18|| anzhiyu-icon-github
+  Github: https://github.com/xubuyuan17|| anzhiyu-icon-github
   BiliBili: https://space.bilibili.com/441828893 || anzhiyu-icon-bilibili
 
 # 作者卡片 状态
@@ -73,10 +71,10 @@ author_status:
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
   statusImg: "https://bu.dusays.com/2023/08/24/64e6ce9c507bb.png"
   skills:
-    - 🤖️ 数码科技爱好者
-    - 🔍 分享与热心帮助
-    - 🏠 智能家居小能手
-    - 🔨 设计开发一条龙
+    -  数码科技爱好者
+    -  分享与热心帮助
+    -  Linux爱好者
+    -  设计开发一条龙
 
 # search (搜索)
 # --------------------------------------

@@ -1,0 +1,29 @@
+# 临时预览配置：仅用于预览 hexo-theme-chan 主题
+# 通过 hexo s --config _config.yml,_config.chanpreview.yml 合并加载
+# 不会修改站点原始 _config.yml
+theme: chan
+language: zh-CN
+theme_config:
+  nav:
+    -
+      - 首页
+    -
+      - categories
+      - tags
+      - archives
+      - bangumi
+  notice:
+    enable: true
+    title: 公告
+    content: 站点已启用全新的<a href="/tags/">标签</a>与归档页面，欢迎浏览。若有问题请留言反馈。
+    dismissible: true
+    date: 2026-07-12
+    author: 许步鸢
+  music:
+    enable: true
+    server: netease
+    type: playlist
+    id: 2792934213
+    volume: 0.7
+    autoplay: false
+    order: list
